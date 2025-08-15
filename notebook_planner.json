@@ -1,0 +1,29 @@
+{
+  "tasks_by_date": {
+    "2025-08-13": [],
+    "2025-08-01": [],
+    "2025-08-08": []
+  },
+  "notes_by_date": {
+    "2025-08-13": [],
+    "2025-08-01": [],
+    "2025-08-08": []
+  },
+  "goals": {
+    "ROOT": {
+      "id": "ROOT",
+      "title": "All Goals",
+      "children": [
+        "868b02"
+      ]
+    },
+    "868b02": {
+      "id": "868b02",
+      "title": "l",
+      "children": []
+    }
+  },
+  "root_goal_id": "ROOT",
+  "upcoming_queue": [],
+  "dependencies": {}
+}
