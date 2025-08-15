@@ -1,68 +1,68 @@
 {
- "2025-08-13": {
-  "notes": [
-   "hi"
-  ],
-  "tasks": [
-   {
-    "task": "Study",
-    "done": true
-   },
-   {
-    "task": "Do hw",
-    "done": true
-   }
-  ],
-  "goals": [
-   {
-    "goal": "Study",
-    "completed": true
-   }
-  ]
- },
- "2025-08-14": {
-  "notes": [],
-  "tasks": [],
-  "goals": []
- },
- "2025-08-12": {
-  "notes": [],
-  "tasks": [],
-  "goals": []
- },
- "2025-08-11": {
-  "notes": [],
-  "tasks": [],
-  "goals": []
- },
- "2025-08-10": {
-  "notes": [],
-  "tasks": [],
-  "goals": []
- },
- "08/14/2025": {
-  "notes": [],
-  "tasks": [],
-  "goals": []
- },
- "08/15/2025": {
-  "notes": [],
-  "tasks": [],
-  "goals": []
- },
- "08/13/2025": {
-  "notes": [],
-  "tasks": [],
-  "goals": []
- },
- "08/12/2025": {
-  "notes": [],
-  "tasks": [],
-  "goals": []
- },
- "08/11/2025": {
-  "notes": [],
-  "tasks": [],
-  "goals": []
- }
+  "2025-08-13": {
+    "notes": [
+     "hi"
+    ],
+    "task": [
+     {
+        "task": "Study",
+        "done" : true
+     },
+     {
+        "task": "Do hw",
+        "done" : true
+     }
+    ],
+    "goals" : [
+     {
+        "goal": "Study",
+        "completed": true
+     }   
+    ]
+  },
+  "2025-08-14": {
+    "notes": [],
+    "task": [],
+    "goals": []
+  },
+  "2025-08-12": {
+    "notes": [],
+    "tasks": [],
+    "goals": []
+  },
+  "2025-08-11": {
+   "notes" : [],
+   "tasks" : [],
+   "goals" : []
+  },
+  "2025-10-2025": {
+    "notes": [],
+    "tasks" : [],
+    "goals" : []
+  },
+  "08/14/2025": {
+    "notes": [],
+    "tasks" : [],
+    "goals" : []
+  },
+  "08/15/2025": {
+    "notes" : [],
+    "tasks" : [],
+    "goals" : []
+  },
+  "08/13/2025": {
+    "notes" : [],
+    "tasks" : [],
+    "goals" : []
+  },
+  "08/12/2025": {
+    "notes" : [],
+    "tasks" : [],
+    "goals" : []
+  },
+  "08/11/2025": {
+    "notes": [],
+    "tasks" : [],
+    "goals" : []
+  }
 }
