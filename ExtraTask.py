@@ -1,4 +1,5 @@
 
+#tree structure 
 class TaskGraph:
 
     def set(self):

@@ -1,6 +1,6 @@
 
 import tkinter as tk
-from tkinter import simpledialog
+from tkinter import simpledialog, messagebox
 import json
 from datetime import datetime, timedelta
 
@@ -88,7 +88,7 @@ class NoteBookPlannerGUI:
 
     def create_ruled_section(self, parent,  title, row, col, color):
 
-        frame = tk.Frame(parent, bg = color, bd= 2, relief = "groove")
+        frame = tk.Frame(parent, bg = color, bd= 2, relief = "flat")
         frame.grid(row = row, column = col, padx = 5, pady = 5, sticky = "ew")
 
         label = tk.Label(frame, text = title, font = ("Arial", 14, "bold"), bg = color)

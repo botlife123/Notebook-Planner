@@ -3,7 +3,7 @@ class NoteManager:
 
     notes = []
     
-    def add(self, mote):
+    def add(self, note):
 
         self.notes.append(note)
 
